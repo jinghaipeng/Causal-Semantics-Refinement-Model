@@ -1,0 +1,143 @@
+1. Explosion
+2. Sinking accident
+3. Earthquake
+4. Fire
+5. Traffic accident
+6. Mudslide
+7. Forest fire
+8. Landslide
+9. Collapse accident
+10. Roof collapse accident
+11. Flooding accident
+12. Attack
+13. Plane crash
+
+Total number of JSON records processed: 900
+Number of unique IDs: 876
+Number of duplicate IDs: 24
+List of duplicate IDs: {1701, 1702, 1703, 1704, 1705, 1706, 1708, 1709, 1710, 1712, 1713, 1714, 2304, 2303, 1717, 1718, 1719, 1720, 1721, 1722, 1723, 1724, 1979, 1726}
+
+Manual correction, data adjustment
+7\2308.xml
+5\2518.xml，2174.xml，2170.xml
+398-99\5\748.xml 4649.xml
+398-99\13\3740.xml
+\4\571.xml
+
+subject: 1
+Number of event pairs within the topic: 1752
+Number of event pairs with causal relationships within the topic: 75
+Number of event pairs within sentences within the topic: 568
+Number of event pairs with causal relationships within sentences within the topic: 55
+Number of event pairs without causal relationships within sentences within the topic: 513
+Number of event pairs between sentences within the topic: 1184
+Number of event pairs with causal relationships between sentences within the topic: 20
+Number of event pairs without causal relationships between sentences within the topic: 1164
+subject: 2
+Number of event pairs within the topic: 2303
+Number of event pairs with causal relationships within the topic: 54
+Number of event pairs within sentences within the topic: 487
+Number of event pairs with causal relationships within sentences within the topic: 38
+Number of event pairs without causal relationships within sentences within the topic: 449
+Number of event pairs between sentences within the topic: 1816
+Number of event pairs with causal relationships between sentences within the topic: 16
+Number of event pairs without causal relationships between sentences within the topic: 1800
+subject: 3
+Number of event pairs within the topic: 1144
+Number of event pairs with causal relationships within the topic: 143
+Number of event pairs within sentences within the topic: 451
+Number of event pairs with causal relationships within sentences within the topic: 65
+Number of event pairs without causal relationships within sentences within the topic: 386
+Number of event pairs between sentences within the topic: 693
+Number of event pairs with causal relationships between sentences within the topic: 78
+Number of event pairs without causal relationships between sentences within the topic: 615
+subject: 4
+Number of event pairs within the topic: 14133
+Number of event pairs with causal relationships within the topic: 1087
+Number of event pairs within sentences within the topic: 4349
+Number of event pairs with causal relationships within sentences within the topic: 614
+Number of event pairs without causal relationships within sentences within the topic: 3735
+Number of event pairs between sentences within the topic: 9784
+Number of event pairs with causal relationships between sentences within the topic: 473
+Number of event pairs without causal relationships between sentences within the topic: 9311
+subject: 5
+Number of event pairs within the topic: 62189
+Number of event pairs with causal relationships within the topic: 2378
+Number of event pairs within sentences within the topic: 20183
+Number of event pairs with causal relationships within sentences within the topic: 1754
+Number of event pairs without causal relationships within sentences within the topic: 18429
+Number of event pairs between sentences within the topic: 42006
+Number of event pairs with causal relationships between sentences within the topic: 624
+Number of event pairs without causal relationships between sentences within the topic: 41382
+subject: 6
+Number of event pairs within the topic: 8274
+Number of event pairs with causal relationships within the topic: 565
+Number of event pairs within sentences within the topic: 3091
+Number of event pairs with causal relationships within sentences within the topic: 311
+Number of event pairs without causal relationships within sentences within the topic: 2780
+Number of event pairs between sentences within the topic: 5183
+Number of event pairs with causal relationships between sentences within the topic: 254
+Number of event pairs without causal relationships between sentences within the topic: 4929
+subject: 7
+Number of event pairs within the topic: 2382
+Number of event pairs with causal relationships within the topic: 213
+Number of event pairs within sentences within the topic: 956
+Number of event pairs with causal relationships within sentences within the topic: 78
+Number of event pairs without causal relationships within sentences within the topic: 878
+Number of event pairs between sentences within the topic: 1426
+Number of event pairs with causal relationships between sentences within the topic: 135
+Number of event pairs without causal relationships between sentences within the topic: 1291
+subject: 8
+Number of event pairs within the topic: 3104
+Number of event pairs with causal relationships within the topic: 347
+Number of event pairs within sentences within the topic: 1046
+Number of event pairs with causal relationships within sentences within the topic: 194
+Number of event pairs without causal relationships within sentences within the topic: 852
+Number of event pairs between sentences within the topic: 2058
+Number of event pairs with causal relationships between sentences within the topic: 153
+Number of event pairs without causal relationships between sentences within the topic: 1905
+subject: 9
+Number of event pairs within the topic: 4467
+Number of event pairs with causal relationships within the topic: 281
+Number of event pairs within sentences within the topic: 1657
+Number of event pairs with causal relationships within sentences within the topic: 134
+Number of event pairs without causal relationships within sentences within the topic: 1523
+Number of event pairs between sentences within the topic: 2810
+Number of event pairs with causal relationships between sentences within the topic: 147
+Number of event pairs without causal relationships between sentences within the topic: 2663
+subject: 10
+Number of event pairs within the topic: 1003
+Number of event pairs with causal relationships within the topic: 18
+Number of event pairs within sentences within the topic: 190
+Number of event pairs with causal relationships within sentences within the topic: 18
+Number of event pairs without causal relationships within sentences within the topic: 172
+Number of event pairs between sentences within the topic: 813
+Number of event pairs with causal relationships between sentences within the topic: 0
+Number of event pairs without causal relationships between sentences within the topic: 813
+subject: 11
+Number of event pairs within the topic: 3116
+Number of event pairs with causal relationships within the topic: 189
+Number of event pairs within sentences within the topic: 762
+Number of event pairs with causal relationships within sentences within the topic: 80
+Number of event pairs without causal relationships within sentences within the topic: 682
+Number of event pairs between sentences within the topic: 2354
+Number of event pairs with causal relationships between sentences within the topic: 109
+Number of event pairs without causal relationships between sentences within the topic: 2245
+subject: 12
+Number of event pairs within the topic: 136
+Number of event pairs with causal relationships within the topic: 4
+Number of event pairs within sentences within the topic: 34
+Number of event pairs with causal relationships within sentences within the topic: 4
+Number of event pairs without causal relationships within sentences within the topic: 30
+Number of event pairs between sentences within the topic: 102
+Number of event pairs with causal relationships between sentences within the topic: 0
+Number of event pairs without causal relationships between sentences within the topic: 102
+subject: 13
+Number of event pairs within the topic: 1051
+Number of event pairs with causal relationships within the topic: 16
+Number of event pairs within sentences within the topic: 341
+Number of event pairs with causal relationships within sentences within the topic: 15
+Number of event pairs without causal relationships within sentences within the topic: 326
+Number of event pairs between sentences within the topic: 710
+Number of event pairs with causal relationships between sentences within the topic: 1
+Number of event pairs without causal relationships between sentences within the topic: 709
