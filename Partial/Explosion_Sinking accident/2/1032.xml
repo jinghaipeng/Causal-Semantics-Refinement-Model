@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document doc_name="1_1ecbplus.xml">
+  <token t_id="1" sentence="0" number="0">ئىران</token>
+  <token t_id="2" sentence="0" number="1">تاراتقۇلىرىنىڭ</token>
+  <token t_id="3" sentence="0" number="2">17</token>
+  <token t_id="4" sentence="0" number="3">-</token>
+  <token t_id="5" sentence="0" number="4">چېسلادىكى</token>
+  <token t_id="6" sentence="0" number="5">خەۋىرىگە</token>
+  <token t_id="7" sentence="0" number="6">قارىغاندا</token>
+  <token t_id="8" sentence="0" number="7">،</token>
+  <token t_id="9" sentence="0" number="8">ئەرەب</token>
+  <token t_id="10" sentence="0" number="9">بىرلەشمە</token>
+  <token t_id="11" sentence="0" number="10">خەلىپىلىكىنىڭ</token>
+  <token t_id="12" sentence="0" number="11">بىر</token>
+  <token t_id="13" sentence="0" number="12">يۈك</token>
+  <token t_id="14" sentence="0" number="13">پاراخوتى</token>
+  <token t_id="15" sentence="0" number="14">شۇ</token>
+  <token t_id="16" sentence="0" number="15">كۈنى</token>
+  <token t_id="17" sentence="0" number="16">ئىراننىڭ</token>
+  <token t_id="18" sentence="0" number="17">غەربىي</token>
+  <token t_id="19" sentence="0" number="18">جەنۇبىدىكى</token>
+  <token t_id="20" sentence="0" number="19">ئاسالۇيې</token>
+  <token t_id="21" sentence="0" number="20">پورتى</token>
+  <token t_id="22" sentence="0" number="21">ئەتراپىدىكى</token>
+  <token t_id="23" sentence="0" number="22">دېڭىز</token>
+  <token t_id="24" sentence="0" number="23">تەۋەلىكىدە</token>
+  <token t_id="25" sentence="0" number="24">چۆكۈپ</token>
+  <token t_id="26" sentence="0" number="25">كەتكەن</token>
+  <token t_id="27" sentence="0" number="26">،</token>
+  <token t_id="28" sentence="0" number="27">پاراخوتتىكى</token>
+  <token t_id="29" sentence="0" number="28">30</token>
+  <token t_id="30" sentence="0" number="29">پاراخوت</token>
+  <token t_id="31" sentence="0" number="30">خادىمىنىڭ</token>
+  <token t_id="32" sentence="0" number="31">29</token>
+  <token t_id="33" sentence="0" number="32">ى</token>
+  <token t_id="34" sentence="0" number="33">قۇتقۇزۇۋېلىنغان</token>
+  <token t_id="35" sentence="1" number="0">شۇ</token>
+  <token t_id="36" sentence="1" number="1">يەردىكى</token>
+  <token t_id="37" sentence="1" number="2">بىر</token>
+  <token t_id="38" sentence="1" number="3">دېڭىز</token>
+  <token t_id="39" sentence="1" number="4">ئەمەلدارى</token>
+  <token t_id="40" sentence="1" number="5">ئىسلام</token>
+  <token t_id="41" sentence="1" number="6">جۇمھۇرىيىتى</token>
+  <token t_id="42" sentence="1" number="7">ئاخبارات</token>
+  <token t_id="43" sentence="1" number="8">ئاگېنتلىقىغا</token>
+  <token t_id="44" sentence="1" number="9">مۇنداق</token>
+  <token t_id="45" sentence="1" number="10">دېدى</token>
+  <token t_id="46" sentence="1" number="11">:</token>
+  <token t_id="47" sentence="1" number="12">ئەمىراتى</token>
+  <token t_id="48" sentence="1" number="13">يۈك</token>
+  <token t_id="49" sentence="1" number="14">پاراخوتى</token>
+  <token t_id="50" sentence="1" number="15">ئاسالويې</token>
+  <token t_id="51" sentence="1" number="16">پورتىدىن</token>
+  <token t_id="52" sentence="1" number="17">50</token>
+  <token t_id="53" sentence="1" number="18">كىلومىتىر</token>
+  <token t_id="54" sentence="1" number="19">يىراقلىقتىكى</token>
+  <token t_id="55" sentence="1" number="20">سۇدا</token>
+  <token t_id="56" sentence="1" number="21">چۆكۈپ</token>
+  <token t_id="57" sentence="1" number="22">كەتتى</token>
+  <token t_id="58" sentence="1" number="23">،</token>
+  <token t_id="59" sentence="1" number="24">ئالاقىدار</token>
+  <token t_id="60" sentence="1" number="25">تارماقلار</token>
+  <token t_id="61" sentence="1" number="26">قۇتقۇزۇش</token>
+  <token t_id="62" sentence="1" number="27">ھەرىكىتىنى</token>
+  <token t_id="63" sentence="1" number="28">باشلىدى</token>
+  <token t_id="64" sentence="2" number="0">بۇ</token>
+  <token t_id="65" sentence="2" number="1">ئەمەلدارنىڭ</token>
+  <token t_id="66" sentence="2" number="2">ئېيتىشىچە</token>
+  <token t_id="67" sentence="2" number="3">،</token>
+  <token t_id="68" sentence="2" number="4">بۇ</token>
+  <token t_id="69" sentence="2" number="5">يۈك</token>
+  <token t_id="70" sentence="2" number="6">پاراخوتى</token>
+  <token t_id="71" sentence="2" number="7">ئىلگىرى</token>
+  <token t_id="72" sentence="2" number="8">قۇتقۇزۇش</token>
+  <token t_id="73" sentence="2" number="9">سىگنالى</token>
+  <token t_id="74" sentence="2" number="10">بەرگەن</token>
+  <token t_id="75" sentence="2" number="11">،</token>
+  <token t_id="76" sentence="2" number="12">لېكىن</token>
+  <token t_id="77" sentence="2" number="13">بوران</token>
+  <token t_id="78" sentence="2" number="14">كۈچلۈك</token>
+  <token t_id="79" sentence="2" number="15">،</token>
+  <token t_id="80" sentence="2" number="16">دولقۇن</token>
+  <token t_id="81" sentence="2" number="17">كۈچلۈك</token>
+  <token t_id="82" sentence="2" number="18">ۋە</token>
+  <token t_id="83" sentence="2" number="19">ناچار</token>
+  <token t_id="84" sentence="2" number="20">ھاۋا</token>
+  <token t_id="85" sentence="2" number="21">رايى</token>
+  <token t_id="86" sentence="2" number="22">سەۋەبىدىن</token>
+  <token t_id="87" sentence="2" number="23">،</token>
+  <token t_id="88" sentence="2" number="24">يۈك</token>
+  <token t_id="89" sentence="2" number="25">پاراخوتى</token>
+  <token t_id="90" sentence="2" number="26">ئۈچ</token>
+  <token t_id="91" sentence="2" number="27">قۇتقۇزۇش</token>
+  <token t_id="92" sentence="2" number="28">پاراخوتى</token>
+  <token t_id="93" sentence="2" number="29">يېتىپ</token>
+  <token t_id="94" sentence="2" number="30">كېلىشتىن</token>
+  <token t_id="95" sentence="2" number="31">بۇرۇن</token>
+  <token t_id="96" sentence="2" number="32">دېڭىزغا</token>
+  <token t_id="97" sentence="2" number="33">چۆكۈپ</token>
+  <token t_id="98" sentence="2" number="34">كەتكەن</token>
+  <token t_id="99" sentence="3" number="0">ئاسالۇيې</token>
+  <token t_id="100" sentence="3" number="1">تۇرۇشلۇق</token>
+  <token t_id="101" sentence="3" number="2">بۇشېر</token>
+  <token t_id="102" sentence="3" number="3">ئۆلكىلىك</token>
+  <token t_id="103" sentence="3" number="4">كرىزىسنى</token>
+  <token t_id="104" sentence="3" number="5">بىر</token>
+  <token t_id="105" sentence="3" number="6">تەرەپ</token>
+  <token t_id="106" sentence="3" number="7">قىلىش</token>
+  <token t_id="107" sentence="3" number="8">تارمىقىنىڭ</token>
+  <token t_id="108" sentence="3" number="9">ئەمەلدارىنىڭ</token>
+  <token t_id="109" sentence="3" number="10">ئېيتىشىچە</token>
+  <token t_id="110" sentence="3" number="11">،</token>
+  <token t_id="111" sentence="3" number="12">قۇتقۇزۇش</token>
+  <token t_id="112" sentence="3" number="13">خادىملىرى</token>
+  <token t_id="113" sentence="3" number="14">29</token>
+  <token t_id="114" sentence="3" number="15">ماتروسنى</token>
+  <token t_id="115" sentence="3" number="16">قۇتقۇزۇپ</token>
+  <token t_id="116" sentence="3" number="17">،</token>
+  <token t_id="117" sentence="3" number="18">ئەڭ</token>
+  <token t_id="118" sentence="3" number="19">ئاخىرقى</token>
+  <token t_id="119" sentence="3" number="20">بىر</token>
+  <token t_id="120" sentence="3" number="21">ماتروسنى</token>
+  <token t_id="121" sentence="3" number="22">ئىزدەۋېتىپتۇ</token>
+  <token t_id="122" sentence="4" number="0">ئاسالۇيې</token>
+  <token t_id="123" sentence="4" number="1">ئىراننىڭ</token>
+  <token t_id="124" sentence="4" number="2">دېڭىز</token>
+  <token t_id="125" sentence="4" number="3">قولتۇقىدىكى</token>
+  <token t_id="126" sentence="4" number="4">ئاساسلىق</token>
+  <token t_id="127" sentence="4" number="5">پورتلىرىنىڭ</token>
+  <token t_id="128" sentence="4" number="6">بىرى</token>
+  <token t_id="129" sentence="4" number="7">،</token>
+  <token t_id="130" sentence="4" number="8">شۇنداقلا</token>
+  <token t_id="131" sentence="4" number="9">بۇ</token>
+  <token t_id="132" sentence="4" number="10">دۆلەتنىڭ</token>
+  <token t_id="133" sentence="4" number="11">مۇھىم</token>
+  <token t_id="134" sentence="4" number="12">نېفىت</token>
+  <token t_id="135" sentence="4" number="13">خىمىيە</token>
+  <token t_id="136" sentence="4" number="14">سانائىتى</token>
+  <token t_id="137" sentence="4" number="15">بازىسى</token>
+  <token t_id="138" sentence="5" number="0">ئىران</token>
+  <token t_id="139" sentence="5" number="1">مېترولوگىيە</token>
+  <token t_id="140" sentence="5" number="2">تارماقلىرى</token>
+  <token t_id="141" sentence="5" number="3">16</token>
+  <token t_id="142" sentence="5" number="4">-</token>
+  <token t_id="143" sentence="5" number="5">فېۋرال</token>
+  <token t_id="144" sentence="5" number="6">بۇ</token>
+  <token t_id="145" sentence="5" number="7">پورت</token>
+  <token t_id="146" sentence="5" number="8">ئەتراپىدىكى</token>
+  <token t_id="147" sentence="5" number="9">دېڭىز</token>
+  <token t_id="148" sentence="5" number="10">ئەھۋالىغا</token>
+  <token t_id="149" sentence="5" number="11">قىزىل</token>
+  <token t_id="150" sentence="5" number="12">رەڭلىك</token>
+  <token t_id="151" sentence="5" number="13">ئاگاھلاندۇرۇش</token>
+  <token t_id="152" sentence="5" number="14">چىقىرىپ</token>
+  <token t_id="153" sentence="5" number="15">،</token>
+  <token t_id="154" sentence="5" number="16">دولقۇننىڭ</token>
+  <token t_id="155" sentence="5" number="17">ئۆركەشلەپ</token>
+  <token t_id="156" sentence="5" number="18">كۈچىيىشىنى</token>
+  <token t_id="157" sentence="5" number="19">ئەسكەرتكەن</token>
+  <token t_id="158" sentence="6" number="0">باش</token>
+  <token t_id="159" sentence="6" number="1">شىتابى</token>
+  <token t_id="160" sentence="6" number="2">دۇبەيگە</token>
+  <token t_id="161" sentence="6" number="3">جايلاشقان</token>
+  <token t_id="162" sentence="6" number="4">بىر</token>
+  <token t_id="163" sentence="6" number="5">سۇ</token>
+  <token t_id="164" sentence="6" number="6">ترانسىپورت</token>
+  <token t_id="165" sentence="6" number="7">شىركىتى</token>
+  <token t_id="166" sentence="6" number="8">17</token>
+  <token t_id="167" sentence="6" number="9">-</token>
+  <token t_id="168" sentence="6" number="10">ئىيۇل</token>
+  <token t_id="169" sentence="6" number="11">كەچتە</token>
+  <token t_id="170" sentence="6" number="12">بۇ</token>
+  <token t_id="171" sentence="6" number="13">شىركەت</token>
+  <token t_id="172" sentence="6" number="14">قارمىقىدىكى</token>
+  <token t_id="173" sentence="6" number="15">بىر</token>
+  <token t_id="174" sentence="6" number="16">يۈك</token>
+  <token t_id="175" sentence="6" number="17">پاراخوتىنىڭ</token>
+  <token t_id="176" sentence="6" number="18">شۇ</token>
+  <token t_id="177" sentence="6" number="19">كۈنى</token>
+  <token t_id="178" sentence="6" number="20">ئىران</token>
+  <token t_id="179" sentence="6" number="21">دېڭىز</token>
+  <token t_id="180" sentence="6" number="22">تەۋەلىكىدە</token>
+  <token t_id="181" sentence="6" number="23">چۆكۈپ</token>
+  <token t_id="182" sentence="6" number="24">كەتكەنلىكىنى</token>
+  <token t_id="183" sentence="6" number="25">دەلىللىدى</token>
+  <Markables>
+    <ACTION m_id="39656" comment="">
+      <token_anchor t_id="25"/>
+      <token_anchor t_id="26"/>
+    </ACTION>
+    <ACTION m_id="39657" comment="">
+      <token_anchor t_id="34"/>
+    </ACTION>
+    <ACTION m_id="39658" comment="">
+      <token_anchor t_id="56"/>
+      <token_anchor t_id="57"/>
+    </ACTION>
+    <ACTION m_id="39659" comment="">
+      <token_anchor t_id="61"/>
+    </ACTION>
+    <ACTION m_id="39660" comment="">
+      <token_anchor t_id="93"/>
+      <token_anchor t_id="94"/>
+    </ACTION>
+    <ACTION m_id="39661" comment="">
+      <token_anchor t_id="152"/>
+    </ACTION>
+    <ACTION m_id="39662" comment="">
+      <token_anchor t_id="157"/>
+    </ACTION>
+  </Markables>
+  <Relations>
+    <PLOT_LINK r_id="13173" SIGNAL="" relType="causation" CAUSES="FALSE" CAUSED_BY="FALSE">
+      <source m_id="39656"/>
+      <target m_id="39659"/>
+    </PLOT_LINK>
+    <PLOT_LINK r_id="13174" SIGNAL="" relType="causation" CAUSES="FALSE" CAUSED_BY="FALSE">
+      <source m_id="39658"/>
+      <target m_id="39659"/>
+    </PLOT_LINK>
+  </Relations>
+</Document>
